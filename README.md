@@ -7,11 +7,11 @@ Getting started
 
   a) - Prerequisites:
 
-    GSCheckDuplicates is written in perl. The program has only been tested on Mac OS X, Linux and Windows.
+    GSCheckDuplicatesCharge is written in perl. The program has only been tested on Mac OS X, Linux and Windows.
 
-  b) - Running GSCheckDuplicates program:
+  b) - Running GSCheckDuplicatesCharge program:
 
-    perl GS_Similarity.pl 0.05 
+    perl GS_Similarity_Charge.pl 0.05 
 
     * 0.05 is threshold duplicate.
 
