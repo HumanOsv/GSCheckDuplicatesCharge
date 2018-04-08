@@ -15,7 +15,7 @@ Getting started
 
     * 0.05 is threshold duplicate.
 
-    * The program call data base ./XYZ_data/
+    * The program call data base ./Outs/
 
 
 
