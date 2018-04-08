@@ -1,1 +1,2 @@
-
+# install: 
+human$ sudo cpan Parallel::ForkManager
